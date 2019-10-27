@@ -79,6 +79,10 @@ i {
   font-style: normal;
 }
 
+nav {
+  text-align: center;
+}
+
 .avatar-container {
   text-align: center;
 }
